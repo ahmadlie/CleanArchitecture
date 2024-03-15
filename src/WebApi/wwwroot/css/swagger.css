@@ -1,0 +1,24 @@
+﻿.model-box {
+    min-width: 50%;
+}
+
+.opblock-summary-method {
+    background-color: #ff3ea5 !important
+}
+
+.swagger-ui .btn.execute {
+    background-color: #ff3ea5 !important;
+    border-color: #ff3ea5 !important;
+}
+
+.swagger-ui .opblock.opblock-post {
+    background: rgb(255, 62, 165,.1);
+    border-color: #ff3ea5;
+}
+
+    .swagger-ui .opblock.opblock-post .tab-header .tab-item.active h4 span:after {
+        background: #ff3ea5;
+    }
+    .swagger-ui .opblock.opblock-post .opblock-summary {
+        border-color: #ff3ea5;
+    }
